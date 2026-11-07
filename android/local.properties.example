@@ -1,0 +1,9 @@
+# Copie este arquivo para local.properties e ajuste os caminhos para sua máquina.
+# O Android Studio geralmente preenche flutter.sdk e sdk.dir automaticamente.
+
+flutter.sdk=/caminho/para/flutter
+sdk.dir=/caminho/para/Android/Sdk
+
+# JDK 17 ou superior (obrigatório para Gradle 9.x).
+# No Android Studio: Settings > Build > Gradle > Gradle JDK
+org.gradle.java.home=/caminho/para/jdk17+
